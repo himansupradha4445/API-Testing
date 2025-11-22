@@ -175,3 +175,16 @@ Examples:
 | Index                  | (//input)[2]                              | 2nd matched element |
 | last()                 | (//button)[last()]                        | Last matched element |
 
+## AUTHENTICATION(Verifies identity)
+- Authentication is the process of verifying the identity of a user or system before giving access to an API.
+  Examples:
+- Logging in with username and password
+-  Verifying an access token
+-  Using an API key
+## AUTHORIZATION (Verifies permissions)
+- Authorisation is the process of checking what an authenticated user is allowed to do.
+  Examples:
+- Admin can delete users
+-  User can view only their own data
+
+
